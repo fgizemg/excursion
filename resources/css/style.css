@@ -1,0 +1,35 @@
+html,body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+
+
+}
+
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.titel2 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 300px;
+font-size: 42px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.footer{
+    text-align: right;
+    color: gray;
+}
